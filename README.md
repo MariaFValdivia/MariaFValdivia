@@ -18,7 +18,6 @@
 ## Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=MariaFValdivia&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="MariaFValdivia" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaFValdivia&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MariaFValdivia" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 <p><img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"></p>
